@@ -40,12 +40,6 @@ header {
     gap:20px;
     background-color: white;
 }
-.background-home{
-    height: 250px;
-    width: 100%;
-    object-position: center;
-    border-radius: 15px;
-}
 .navbar img {
     width: 55px;
     height: 55px;
